@@ -11,6 +11,7 @@ function App() {
 <ul>
     <li><a href="#home">Home</a></li>
     <li><a href="https://Linkin.com"> LinkedIn</a></li>
+    <li><a href="#resume"> Resume</a></li>
 </ul>
 </nav>
 <div className="container">
@@ -20,7 +21,7 @@ function App() {
 <section>
     <h2>About Me</h2>
     <p>
-        Sales Development Representative | Data Analyst Enthusiast | Passionate about leveraging data to drive sales strategies and business growth.
+        Sales Development Representative | Business Analyst | Passionate about leveraging data to drive sales strategies and business growth.
   Connect with me on LinkedIn for more insights and opportunities| Let's drive success together!
     </p>
 </section>
